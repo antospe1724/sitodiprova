@@ -1,0 +1,102 @@
+.head-banner{
+    background-color: black;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-image: url(https://images.unsplash.com/photo-1494768788897-7fdaa00de2a1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGNpdHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+
+}
+.sezione-icone{
+    padding-bottom:8rem;
+    padding-top: 8rem;
+
+}
+.bi{
+    color: rgb(21, 159, 252);
+}
+
+.ci{
+color: goldenrod;
+}
+
+.di{
+    color: rgb(207, 6, 6);
+}
+
+.t-h-1.t-h-2{
+    font-size: 45px;
+}
+
+.t-p-1{
+    font-size: 25px;
+}
+
+.t-p-2{
+font-size: 25px;
+}
+.t-p-3{
+    font-size: 25px;
+
+}
+
+.navbar-light .navbar-brand{
+    color: rgb(201, 39, 17);
+    font-weight: 900;
+    font-size: 20px;
+}
+a:link{
+    color: chartreuse;
+}
+
+a:visited{
+    color:chocolate;
+    size: 15px;
+}
+:active{
+color: orchid;
+}
+
+.immagine{
+    min-height: 30rem;
+}
+
+.p{
+    font-size: 20px;
+}
+
+.spazio-su{
+    margin-top: 3rem;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    color: rgb(28, 28, 29);
+}
+.recensione-singola{
+    height: 150;
+    width: 150px;
+}
+.newsletter{
+    background-color: black;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    margin-top: 3rem;
+}
+
+
+
+
+@media screen and(min-width:1200px){
+    .head-banner{
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+        font-size: 3.5rem;
+    }
+    
+}
+.utile{
+        font-size: 20px;
+        color: rgb(0, 0, 0);
+        background-color: gold;
+        font-style: oblique;
+        font-size: 20px;
+        font-weight: 700;
+}
